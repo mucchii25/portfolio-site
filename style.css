@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fdfaf4;
+  color: #333;
+}
+
+header {
+  background-color: #2e4f3f;
+  color: #f0f0e8;
+  text-align: center;
+  padding: 2em;
+}
+
+section {
+  padding: 2em;
+  max-width: 800px;
+  margin: auto;
+}
+
+.Portfolio {
+  padding: 2em;
+  max-width: 800px;
+  margin: auto;
+  color: #2e4f3f;
+}
+
+
+h2 {
+  color: rgb(1, 77, 20);
+}
+
+p {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.insta_box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em; 
+  margin-top: 1em;
+}
+
+.whatsapp_box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em; 
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+  border-radius: 10px;
+  margin: 1em 0;
+}
+.logo {
+  max-width: 50%;
+  height: auto;
+}
+
+footer {
+  text-align: center;
+  background-color: #e6dfcf;
+  color: #333;
+  padding: 1em;
+  font-size: 0.9em;
+}
